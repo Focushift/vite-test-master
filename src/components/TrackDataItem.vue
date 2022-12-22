@@ -3,8 +3,15 @@
     <div class="logo">
       <img :src="item.imageUrl" alt="Track image" />
     </div>
-    <div>
-
+    <div class="track-description">
+      <h2>
+        <a :href="item.iTunesTrackUrl" v-text="item.title" target="_blank"></a>
+      </h2>
+      <h3>
+        <b v-text="item.artist"></b>
+      </h3>
+      <div>Duration: {{ item.duration }}</div>
+      <div>Start time: {{ item.dateTime.toLocaleTimeString() }}</div>
     </div>
   </div>
 </template>
@@ -22,9 +29,6 @@ export default defineComponent({
       default: () => ({}),
     },
   },
-  setup(props) {
-    return {}
-  }
 })
 </script>
 
@@ -33,6 +37,10 @@ export default defineComponent({
     padding: 10px;
     margin: 10px;
     display: flex;
+    border-top: 1px solid #CEE3F7;
+    border-left: 1px solid #CEE3F7;
+    border-radius: 10px 0;
+    background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAeCAYAAADtlXTHAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAD1JREFUeNpifvjm1y8mBgYGVhDxG0SAuT/hxHcQ8QNEfMNCfAERX+EEGheNQNP7A248wrZfDP///2cACDAAgd4hBSmkkhAAAAAASUVORK5CYII=) repeat-x 0 -15px;
 
     .logo {
       border: 1px solid #DDDDDD;
@@ -41,6 +49,9 @@ export default defineComponent({
       > img {
         max-width: 200px;
       }
+    }
+    .track-description {
+      padding: 10px;
     }
   }
 </style>

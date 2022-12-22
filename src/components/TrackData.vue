@@ -2,8 +2,8 @@
   <div>
     <TrackDataItem
       v-for="item in sortedTracks"
-      :key="item.artist + item.title"
       :item="item"
+      :key="item.artist + item.title"
     />
   </div>
 </template>
