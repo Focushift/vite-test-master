@@ -1,0 +1,254 @@
+{
+  "nowplaying": [
+      {
+          "artist": "The Magician",
+          "duration": "00:03:13",
+          "iTunesTrackUrl": "https://music.apple.com/gb/album/sunlight-feat-years-and-years-radio-edit/902813661?i=902813714&uo=4",
+          "imageUrl": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/bf/f8/42/bff842ea-e331-6e35-e3b6-ddb211fba05d/825646227631.jpg/450x450bb.jpg",
+          "previewUrl": "",
+          "status": "playing",
+          "time": "2022-12-21T00:56:17Z",
+          "title": "Sunlight (Feat. Years & Years)"
+      },
+      {
+          "artist": "Strike",
+          "duration": "00:03:49",
+          "iTunesTrackUrl": "https://itunes.apple.com/gb/album/u-sure-do/id1217232279?i=1217232316&uo=4",
+          "imageUrl": "http://is4.mzstatic.com/image/thumb/Music111/v4/6b/aa/b1/6baab1a2-af25-ad08-edb0-ae4aad4342d6/source/450x450bb.jpg",
+          "previewUrl": "",
+          "status": "history",
+          "time": "2022-12-21T00:52:31Z",
+          "title": "U Sure Do "
+      },
+      {
+          "artist": "Spiller",
+          "duration": "00:03:46",
+          "iTunesTrackUrl": "https://itunes.apple.com/gb/album/groovejet-if-this-aint-love-spillers-extended-vocal-mix/id375957096?i=375957148&uo=4",
+          "imageUrl": "http://is3.mzstatic.com/image/thumb/Music/v4/4b/85/af/4b85af1a-1124-ed76-b8c5-916545f3ccc9/source/450x450bb.jpg",
+          "previewUrl": "",
+          "status": "history",
+          "time": "2022-12-21T00:48:47Z",
+          "title": "Groovejet (If This Aint Love)"
+      },
+      {
+          "artist": "The Darkness",
+          "duration": "00:03:31",
+          "iTunesTrackUrl": "https://music.apple.com/gb/album/christmas-time-dont-let-the-bells-end/96164519?i=96164396&uo=4",
+          "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/6f/11/3d/mzi.hkehmgkh.jpg/450x450bb.jpg",
+          "previewUrl": "",
+          "status": "history",
+          "time": "2022-12-21T00:45:27Z",
+          "title": "Christmas Time, Don't Let the Bells End"
+      },
+      {
+          "artist": "Ne-Yo",
+          "duration": "00:03:55",
+          "iTunesTrackUrl": "https://music.apple.com/gb/album/let-me-love-you-acoustic/563979936?i=563981152&uo=4",
+          "imageUrl": "https://is4-ssl.mzstatic.com/image/thumb/Music/v4/bd/6b/ee/bd6bee38-a69d-1d4d-a95f-678106bcb081/859708918946_cover.tif/450x450bb.jpg",
+          "previewUrl": "",
+          "status": "history",
+          "time": "2022-12-21T00:41:31Z",
+          "title": "Let Me Love You (Until You Love Yourself)"
+      },
+      {
+          "artist": "Livin Joy",
+          "duration": "00:03:35",
+          "iTunesTrackUrl": "https://music.apple.com/gb/album/dont-stop-movin/1361726459?i=1361728000&uo=4",
+          "imageUrl": "https://is4-ssl.mzstatic.com/image/thumb/Music62/v4/fb/59/8b/fb598b2e-3f9c-d656-3b7d-e0ca9a74b539/885012025094.jpg/450x450bb.jpg",
+          "previewUrl": "",
+          "status": "history",
+          "time": "2022-12-21T00:37:05Z",
+          "title": "Don't Stop Moving"
+      },
+      {
+          "artist": "Tom Walker",
+          "duration": "00:03:00",
+          "iTunesTrackUrl": "https://music.apple.com/gb/album/serotonin/1618468959?i=1618468985&uo=4",
+          "imageUrl": "https://is3-ssl.mzstatic.com/image/thumb/Music116/v4/97/f8/7b/97f87b25-6748-cec2-a7d4-9f02916faa75/196589077479.jpg/450x450bb.jpg",
+          "previewUrl": "",
+          "status": "history",
+          "time": "2022-12-21T00:34:17Z",
+          "title": "Serotonin"
+      },
+      {
+          "artist": "Tones and I",
+          "duration": "00:03:29",
+          "iTunesTrackUrl": "https://music.apple.com/gb/album/dance-monkey/1461439680?i=1461439681&uo=4",
+          "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/9f/ae/a6/9faea6f3-be45-aa00-631e-c24044128c94/source/450x450bb.jpg",
+          "previewUrl": "",
+          "status": "history",
+          "time": "2022-12-21T00:30:57Z",
+          "title": "Dance Monkey"
+      },
+      {
+          "artist": "Rag N Bone Man",
+          "duration": "00:03:19",
+          "iTunesTrackUrl": "https://itunes.apple.com/gb/album/human/id1173599790?i=1173600551&uo=4",
+          "imageUrl": "http://is5.mzstatic.com/image/thumb/Music122/v4/19/d0/4b/19d04b31-e4ea-e55c-81c9-1481d459305c/source/450x450bb.jpg",
+          "previewUrl": "",
+          "status": "history",
+          "time": "2022-12-21T00:27:48Z",
+          "title": "Human"
+      },
+      {
+          "artist": "Mabel & Jax Jones",
+          "duration": "00:03:57",
+          "iTunesTrackUrl": "https://music.apple.com/gb/album/good-luck-mabel/1621831620?i=1621831621&uo=4",
+          "imageUrl": "https://is4-ssl.mzstatic.com/image/thumb/Music112/v4/ec/74/6a/ec746a5f-85d0-ed70-d965-c66d6f00db95/cover.jpg/450x450bb.jpg",
+          "previewUrl": "",
+          "status": "history",
+          "time": "2022-12-21T00:23:59Z",
+          "title": "Good Luck"
+      },
+      {
+          "artist": "Adventures of Stevie V",
+          "duration": "00:03:59",
+          "iTunesTrackUrl": "https://itunes.apple.com/gb/album/dirty-cash-money-talks-sold-out-mix-7-edit/id359363617?i=359363634&uo=4",
+          "imageUrl": "http://is5.mzstatic.com/image/thumb/Music/v4/83/09/3f/83093fd3-637c-9bdf-7384-f9ab9b8cc7ac/source/450x450bb.jpg",
+          "previewUrl": "",
+          "status": "history",
+          "time": "2022-12-21T00:19:24Z",
+          "title": "Dirty Cash (Money Talks)"
+      },
+      {
+          "artist": "Coldplay",
+          "duration": "00:04:02",
+          "iTunesTrackUrl": "https://itunes.apple.com/gb/album/christmas-lights/693525980?i=693526009&uo=4",
+          "imageUrl": "http://is4.mzstatic.com/image/thumb/Music4/v4/c2/f5/fe/c2f5fe97-ceb7-dc44-706f-9af18265303c/source/450x450bb.jpg",
+          "previewUrl": "",
+          "status": "history",
+          "time": "2022-12-21T00:15:33Z",
+          "title": "Christmas Lights"
+      },
+      {
+          "artist": "Jess Glynne",
+          "duration": "00:03:17",
+          "iTunesTrackUrl": "https://music.apple.com/gb/album/one-touch/1463176046?i=1463176055&uo=4",
+          "imageUrl": "https://is5-ssl.mzstatic.com/image/thumb/Music113/v4/96/8f/6c/968f6cbb-2ef1-ef5b-729a-fd3de9e4ec67/190295416843.jpg/450x450bb.jpg",
+          "previewUrl": "",
+          "status": "history",
+          "time": "2022-12-21T00:12:17Z",
+          "title": "One Touch (Feat. Jax Jones)"
+      },
+      {
+          "artist": "Tom Grennan",
+          "duration": "00:03:35",
+          "iTunesTrackUrl": "https://music.apple.com/gb/album/remind-me/1612013778?i=1612013787&uo=4",
+          "imageUrl": "https://is2-ssl.mzstatic.com/image/thumb/Music126/v4/91/19/b9/9119b9b1-e042-7a14-7420-379c74021609/886449928750.jpg/450x450bb.jpg",
+          "previewUrl": "",
+          "status": "history",
+          "time": "2022-12-21T00:08:52Z",
+          "title": "Remind Me"
+      },
+      {
+          "artist": "Jakatta",
+          "duration": "00:03:20",
+          "iTunesTrackUrl": "https://itunes.apple.com/gb/album/american-dream-ski-oakenfull-dream-on-remix/id910591835?i=910591881&uo=4",
+          "imageUrl": "http://is4.mzstatic.com/image/thumb/Music3/v4/e5/64/47/e5644750-a3a8-58ae-829c-1b2adf791707/source/450x450bb.jpg",
+          "previewUrl": "",
+          "status": "history",
+          "time": "2022-12-21T00:05:50Z",
+          "title": "American Dream"
+      },
+      {
+          "artist": "Calvin Harris",
+          "duration": "00:03:54",
+          "iTunesTrackUrl": "https://music.apple.com/gb/album/well-be-coming-back-feat-example/561066537?i=561066675&uo=4",
+          "imageUrl": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/13/6f/f5/136ff56b-5759-20fe-290e-ee1a7cc44091/884977912999.jpg/450x450bb.jpg",
+          "previewUrl": "",
+          "status": "history",
+          "time": "2022-12-21T00:02:14Z",
+          "title": "We'll Be Coming Back (Feat. Example)"
+      },
+      {
+          "artist": "Freeloaders",
+          "duration": "00:03:08",
+          "iTunesTrackUrl": "https://music.apple.com/gb/album/so-much-love-to-give-feat-the-real-thing-radio-edit/1444282714?i=1444282718&uo=4",
+          "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1a/1a/e6/1a1ae68f-5796-7e88-33b0-a2a4ba89135c/00602498710838.rgb.jpg/450x450bb.jpg",
+          "previewUrl": "",
+          "status": "history",
+          "time": "2022-12-20T23:57:56Z",
+          "title": "So Much Love to Give (feat.The Real Thing)"
+      },
+      {
+          "artist": "Slade",
+          "duration": "00:03:24",
+          "iTunesTrackUrl": "https://itunes.apple.com/gb/album/merry-xmas-everybody/1050244126?i=1050244134&uo=4",
+          "imageUrl": "http://is1.mzstatic.com/image/thumb/Music6/v4/f2/dd/ba/f2ddba8c-6eef-0c39-808d-ed37a1079eb8/source/450x450bb.jpg",
+          "previewUrl": "",
+          "status": "history",
+          "time": "2022-12-20T23:54:30Z",
+          "title": "Merry Christmas Everybody"
+      },
+      {
+          "artist": "Karen Ramirez",
+          "duration": "00:03:52",
+          "iTunesTrackUrl": "https://itunes.apple.com/gb/album/looking-for-love/id406195712?i=406196203&uo=4",
+          "imageUrl": "http://is4.mzstatic.com/image/thumb/Music/v4/30/6c/6d/306c6d6e-65a4-a319-eeff-168ca27004e6/source/450x450bb.jpg",
+          "previewUrl": "",
+          "status": "history",
+          "time": "2022-12-20T23:50:35Z",
+          "title": "Looking for Love"
+      },
+      {
+          "artist": "Cee Lo Green",
+          "duration": "00:03:42",
+          "iTunesTrackUrl": "https://itunes.apple.com/gb/album/forget-you/id479211118?i=479211237&uo=4",
+          "imageUrl": "http://is1.mzstatic.com/image/thumb/Music/v4/eb/60/62/eb6062a7-0d4b-0936-0afd-d6402381fa86/source/450x450bb.jpg",
+          "previewUrl": "",
+          "status": "history",
+          "time": "2022-12-20T23:43:54Z",
+          "title": "Forget You"
+      },
+      {
+          "artist": "Wham!",
+          "duration": "00:04:22",
+          "iTunesTrackUrl": "https://itunes.apple.com/gb/album/last-christmas-single-version/id202117886?i=202117984&uo=4",
+          "imageUrl": "http://is5.mzstatic.com/image/thumb/Music/v4/02/0d/a0/020da063-f950-e967-64cd-1a06eb11f9e6/source/450x450bb.jpg",
+          "previewUrl": "",
+          "status": "history",
+          "time": "2022-12-20T23:38:30Z",
+          "title": "Last Christmas"
+      },
+      {
+          "artist": "Charli XCX",
+          "duration": "00:02:48",
+          "iTunesTrackUrl": "https://music.apple.com/gb/album/beg-for-you-feat-rina-sawayama/1614482827?i=1614482869&uo=4",
+          "imageUrl": "https://is4-ssl.mzstatic.com/image/thumb/Music116/v4/66/38/a7/6638a700-9f5c-43fa-1b1b-2f0899beb8d7/886449769001.jpg/450x450bb.jpg",
+          "previewUrl": "",
+          "status": "history",
+          "time": "2022-12-20T23:35:34Z",
+          "title": "Beg for You (Feat. Rina Siwayama)"
+      },
+      {
+          "artist": "Love Inc",
+          "duration": "00:03:22",
+          "iTunesTrackUrl": "https://itunes.apple.com/gb/album/youre-a-superstar/id938711879?i=938714304&uo=4",
+          "imageUrl": "http://is1.mzstatic.com/image/thumb/Music5/v4/4d/aa/22/4daa2200-d8ca-79d7-0e0a-03deff29042e/source/450x450bb.jpg",
+          "previewUrl": "",
+          "status": "history",
+          "time": "2022-12-20T23:32:11Z",
+          "title": "You're a Superstar"
+      },
+      {
+          "artist": "Outkast",
+          "duration": "00:03:52",
+          "iTunesTrackUrl": "https://itunes.apple.com/gb/album/hey-ya-radio-mix-club-mix/id281430653?i=281430764&uo=4",
+          "imageUrl": "http://is2.mzstatic.com/image/thumb/Music/v4/2f/f7/01/2ff7019c-a272-c986-7c52-6513c8ec8ce1/source/450x450bb.jpg",
+          "previewUrl": "",
+          "status": "history",
+          "time": "2022-12-20T23:28:26Z",
+          "title": "Hey Ya!"
+      },
+      {
+          "artist": "Jax Jones & MNEK",
+          "duration": "00:02:58",
+          "iTunesTrackUrl": "https://music.apple.com/gb/album/where-did-you-go/1606770074?i=1606770075&uo=4",
+          "imageUrl": "https://is2-ssl.mzstatic.com/image/thumb/Music116/v4/75/39/0b/75390bbc-2dff-f39d-e3d5-95851a98f31a/21UM1IM53248.rgb.jpg/450x450bb.jpg",
+          "previewUrl": "",
+          "status": "history",
+          "time": "2022-12-20T23:24:28Z",
+          "title": "Where Did You Go?"
+      }
+  ]
+}
