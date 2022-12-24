@@ -13,6 +13,9 @@
       <div>Duration: {{ item.duration }}</div>
       <div>Start time: {{ item.dateTime.toLocaleTimeString() }}</div>
     </div>
+    <div v-if="isPlaying" class="track-playing-time">
+      Playing
+    </div>
   </div>
 </template>
 
@@ -29,6 +32,18 @@ export default defineComponent({
       default: () => ({}),
     },
   },
+  setup(props) {
+    const isPlaying = computed(() => props.item?.status === 'playing')
+    const playingTime = computed(() => {
+      if (!isPlaying.value) return 0
+
+    })
+
+    return {
+      isPlaying,
+      playingTime,
+    }
+  }
 })
 </script>
 
@@ -51,7 +66,7 @@ export default defineComponent({
       }
     }
     .track-description {
-      padding: 10px;
+      padding: 20px;
     }
   }
 </style>

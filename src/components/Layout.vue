@@ -13,6 +13,6 @@
     min-height: 100vh;
     min-width: 100vw;
     display: grid;
-    grid-template-columns: auto 1280px auto;
+    grid-template-columns: auto 768px auto;
   }
 </style>
