@@ -1,7 +1,9 @@
 <template>
   <div class="track-info">
     <div class="logo">
-      <img :src="item.imageUrl" alt="Track image" />
+      <a :href="item.iTunesTrackUrl" :title="item.title" target="_blank">
+        <img :src="item.imageUrl" alt="Track image" />
+      </a>
     </div>
     <div class="track-description">
       <h2>
@@ -15,12 +17,13 @@
     </div>
     <div v-if="isPlaying" class="track-playing-time">
       Playing
+      <progress :value="playingTimeProgress" max="100" />
     </div>
   </div>
 </template>
 
 <script lang="ts">
-import { defineComponent, PropType, ref, onMounted, onBeforeUnmount, computed } from 'vue'
+import { defineComponent, PropType, computed } from 'vue'
 import TrackItem from '../models/TrackItemModel'
 
 export default defineComponent({
@@ -34,14 +37,20 @@ export default defineComponent({
   },
   setup(props) {
     const isPlaying = computed(() => props.item?.status === 'playing')
-    const playingTime = computed(() => {
-      if (!isPlaying.value) return 0
-
+    const playingTimeProgress = computed(() => {
+      const { dateTime, duration } = props.item
+      if (!isPlaying.value || !dateTime || !duration || !duration.includes(':')) return 0
+      const currentTime = new Date()
+      const startTime = new Date(props.item.dateTime)
+      const playingSeconds = (currentTime.getTime() - startTime.getTime()) / 1000
+      const [hours, minutes, seconds] = duration.split(':')
+      const durationSeconds = (+hours) * 60 * 60 + (+minutes) * 60 + (+seconds)
+      return playingSeconds / durationSeconds * 100
     })
 
     return {
       isPlaying,
-      playingTime,
+      playingTimeProgress,
     }
   }
 })
@@ -61,12 +70,19 @@ export default defineComponent({
       border: 1px solid #DDDDDD;
       padding: 4px;
 
-      > img {
+      img {
         max-width: 200px;
       }
     }
     .track-description {
       padding: 20px;
+      flex-grow: 1;
+    }
+    .track-playing-time {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      min-width: 150px;
     }
   }
 </style>
